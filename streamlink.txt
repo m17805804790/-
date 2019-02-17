@@ -1,0 +1,1 @@
+streamlink --player "D:\soft\PotPlayer\PotPlayerMini.exe" https://www.douyu.com/9999 best
